@@ -1,0 +1,4 @@
+capacidad
+no. artículos
+peso_i	valor_i	óptimo_i
+peso_óptimo	valor_óptimo
